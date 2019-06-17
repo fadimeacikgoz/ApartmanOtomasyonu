@@ -1,0 +1,116 @@
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.pdb
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAnaSayfa.resources
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAdmin.resources
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.Properties.Resources.resources
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe.licenses
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.pdb
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.exe.config
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmVerilerGoster.resources
+C:\Users\USER\Desktop\Yeni klasör\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmBilgileriGoster.resources
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.exe.config
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.pdb
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csprojResolveAssemblyReference.cache
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmBilgileriGoster.resources
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmVerilerGoster.resources
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAnaSayfa.resources
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAdmin.resources
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.Properties.Resources.resources
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csproj.GenerateResource.Cache
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe.licenses
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\Fadime AÇIKGÖZ\Desktop\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.pdb
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.exe.config
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\bin\Debug\APARTMAN OTOMASYONU11.pdb
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csprojResolveAssemblyReference.cache
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmBilgileriGoster.resources
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmVerilerGoster.resources
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAnaSayfa.resources
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAdmin.resources
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.Properties.Resources.resources
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csproj.GenerateResource.Cache
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe.licenses
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\Fadime AÇIKGÖZ\Documents\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.pdb
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csprojAssemblyReference.cache
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmBilgileriGoster.resources
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmVerilerGoster.resources
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAnaSayfa.resources
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.FrmAdmin.resources
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN_OTOMASYONU11.Properties.Resources.resources
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.csproj.GenerateResource.cache
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe.licenses
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.exe
+C:\Users\Fadime Acikgoz\Desktop\AİLE FOTO\APARTMAN OTOMASYONU11\APARTMAN OTOMASYONU11\obj\Debug\APARTMAN OTOMASYONU11.pdb
